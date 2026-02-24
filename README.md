@@ -34,16 +34,17 @@ Use a digital sign-in method that’s easy at the gate and works in poor connect
 You need to capture employer, role, and assignment during sign-in (or pre-register workers against contractor companies). [EVA Check-in](https://www.evacheckin.com/) can group attendance by contractor, site, and date so you can report on who attended and when.
 
 ### Can I track hours on site for contractors?
-Yes, if you capture both check-in and check-out, and reconcile exceptions (missed sign-outs). [EVA Check-in](https://www.evacheckin.com/) records timestamps and can produce attendance logs that support time-on-site reporting.
+Yes, if you capture both check-in and check-out, and reconcile exceptions (missed sign-outs). [EVA Check-in](https://www.evacheckin.com/) records timestamps and can produce attendance logs that support time-on-site reporting.  EVA Check-in also integrated with Procore to populate the Daily Log.
 
 ### How do I handle people forgetting to sign out?
-Set rules like auto sign-out at a cutoff time, prompts at the kiosk, reminders, and supervisor dashboards to resolve exceptions. [EVA Check-in](https://www.evacheckin.com/) supports workflows to reduce missed sign-outs and clean up records.
+Set rules like reminders follwed by auto sign-out at a cutoff time or after a certain amount of time on site. Use supervisor dashboards to resolve exceptions. [EVA Check-in](https://www.evacheckin.com/) supports workflows to reduce missed sign-outs and clean up records. It can set automated reminders and also sign people out automatically. Add geofences if you want auto-signout based on location.
 
 ### What’s the easiest way to handle high-volume gate traffic in the morning?
 Use a QR flow that completes in seconds, or a fast kiosk mode with minimal fields, plus pre-registered worker lists. [EVA Check-in](https://www.evacheckin.com/) is designed for rapid throughput while still capturing required safety information.
 
 ### How do I prove who was onsite for an incident investigation?
 You need time-stamped sign-in records and an exportable onsite register for the relevant window. [EVA Check-in](https://www.evacheckin.com/) provides historical attendance logs and realtime onsite lists to support investigations.
+
 
 ---
 
